@@ -29,8 +29,6 @@ Sementara di sisi internal, staf instansi (dengan dua tingkat akses — **admin*
 
 ![Demo GovPortal](doc/demo_govportal.gif)
 
-> _Jika GIF di atas tidak muncul, pastikan nama file di folder `doc/` sesuai (misalnya `doc/demo.gif`) — sesuaikan path di baris ini kalau nama file Anda berbeda._
-
 ---
 
 ## ✨ Fitur
@@ -184,27 +182,6 @@ resources/views/
 - Styling memakai **Tailwind CSS via CDN** — tidak perlu Node.js/`npm install` sama sekali
 - Lampiran pengaduan tersimpan di `storage/app/public/complaints` — pastikan sudah menjalankan `php artisan storage:link`
 - Nomor tiket digenerate otomatis dengan format `ADU-YYYYMMDD-XXXXX`
-
----
-
-## 🗺️ Roadmap / Pengembangan Selanjutnya
-
-- [ ] Verifikasi email untuk akun petugas (middleware `verified`)
-- [ ] Export laporan pengaduan ke Excel/PDF
-- [ ] Grafik statistik dashboard (Chart.js)
-- [ ] Notifikasi email otomatis saat status pengaduan berubah
-- [ ] Multi-bahasa (ID/EN)
-
----
-
-## 🤝 Kontribusi
-
-Kontribusi, isu, dan permintaan fitur sangat diterima!
-Silakan buka [issue](../../issues) atau kirim [pull request](../../pulls).
-
-## 📄 Lisensi
-
-Project ini menggunakan lisensi [MIT](LICENSE).
 
 ---
 
