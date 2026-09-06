@@ -10,8 +10,6 @@
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-CDN-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[Lihat Demo](#-demo) · [Laporkan Bug](../../issues) · [Ajukan Fitur](../../issues)
-
 </div>
 
 ---
@@ -29,7 +27,7 @@ Sementara di sisi internal, staf instansi (dengan dua tingkat akses — **admin*
 
 ## 🎬 Demo
 
-![Demo GovPortal](doc/demo.gif)
+![Demo GovPortal](doc/demo_govportal.gif)
 
 > _Jika GIF di atas tidak muncul, pastikan nama file di folder `doc/` sesuai (misalnya `doc/demo.gif`) — sesuaikan path di baris ini kalau nama file Anda berbeda._
 
